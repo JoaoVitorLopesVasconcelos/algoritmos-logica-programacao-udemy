@@ -1,3 +1,5 @@
+// Varíaveis são espaços na memória do computador que armazenam valores.
+
 let nota1 = 8;
 let nota2 = 6;
 let penalizacao = 3;
