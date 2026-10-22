@@ -13,7 +13,7 @@ const media = (nota1 + nota2 + nota3) / 3;
 }*/
 
 
-//Pratica 2 = Calculo de frete
+//Pratica 2 = Calculo de frete com condicional.
 
 const valorCompra = 100;
 const freteGratis = false;
